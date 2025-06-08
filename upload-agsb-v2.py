@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "kkddytd"         # 用户名
 UUID = "c6ae3103-90fa-4181-abb1-aca31c32634b"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
+DOMAIN = ""                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiOGVlNDA2MDJkMzcyOWQ3ZTYwMjgxZDA2MjkzMTI1MzEiLCJ0IjoiZDlkZTU3ZGMtNzAzZS00Zjc5LWJhYzUtYzVkNTJkOTdjMmRiIiwicyI6Ik9XSmlNR0l3WWpBdE0ySmpOUzAwWWpsbExXSTFORGt0TVdGaVpEa3dNamN6T1dZMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
