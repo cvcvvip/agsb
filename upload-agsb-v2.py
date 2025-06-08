@@ -32,10 +32,10 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 
 # ====== 全局可配置参数（可直接在此处修改） ======
 USER_NAME = "kkddytd"         # 用户名
-UUID = "a91b59b6-ade4-497d-b4e9-88d184c48048"                     # UUID，留空则自动生成
+UUID = "c6ae3103-90fa-4181-abb1-aca31c32634b"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "free.testlrj.ddns-ip.net"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiOGVlNDA2MDJkMzcyOWQ3ZTYwMjgxZDA2MjkzMTI1MzEiLCJ0IjoiZDlkZTU3ZGMtNzAzZS00Zjc5LWJhYzUtYzVkNTJkOTdjMmRiIiwicyI6Ik9XSmlNR0l3WWpBdE0ySmpOUzAwWWpsbExXSTFORGt0TVdGaVpEa3dNamN6T1dZMCJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
